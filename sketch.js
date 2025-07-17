@@ -264,9 +264,9 @@ function draw() {
       text("Voltar", 323, 366);
   }
 
-  fill(0);
-  textSize(12);
-  text(mouseX + " " + mouseY, 40, 15);
+  //fill(0);
+ // textSize(12);
+ // text(mouseX + " " + mouseY, 40, 15);
 }
 
 function mudarTela(novaTela) {
